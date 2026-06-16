@@ -1,8 +1,9 @@
-PRORJECT- Summative:Freeform Programming Exercise 
+PROJECT- Summative:Freeform Programming Exercise 
 
 Project description:
 Exploring worldwide measles and rubella cases between 2012-2025.
 Seven different graphs were created to answer the following questions.
+Scored a high merit grade.
 
 1. How has global measles and rubella cases changed over time?
 2. How does measles and rubella cases vary by region?
