@@ -1,0 +1,80 @@
+GROUP,CODE,NAME,YEAR,ANTIGEN,ANTIGEN_DESCRIPTION,COVERAGE_CATEGORY,COVERAGE_CATEGORY_DESCRIPTION,TARGET_NUMBER,DOSES,COVERAGE
+WHO_REGIONS,AFR,African Region,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,37175318,20476828,55
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18611380,13904752,75
+WHO_REGIONS,EUR,European Region,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,10689279,9675943,91
+WHO_REGIONS,AMR,Region of the Americas,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,13612312,10444187,77
+WHO_REGIONS,SEAR,South-East Asia Region,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,28728317,26266507,91
+WHO_REGIONS,WPR,Western Pacific Region,2024,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,20427683,18046364,88
+WHO_REGIONS,AFR,African Region,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,36620135,17670450,48
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18508724,13543450,73
+WHO_REGIONS,EUR,European Region,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11004943,10008630,91
+WHO_REGIONS,AMR,Region of the Americas,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,13834807,10439715,75
+WHO_REGIONS,SEAR,South-East Asia Region,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,28780517,25821055,90
+WHO_REGIONS,WPR,Western Pacific Region,2023,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,21802569,18620229,85
+WHO_REGIONS,AFR,African Region,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,36072840,15391666,43
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18437053,13899317,75
+WHO_REGIONS,EUR,European Region,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11284611,10317198,91
+WHO_REGIONS,AMR,Region of the Americas,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14078088,10766031,76
+WHO_REGIONS,SEAR,South-East Asia Region,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29109754,26081207,90
+WHO_REGIONS,WPR,Western Pacific Region,2022,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,24200725,21245193,88
+WHO_REGIONS,AFR,African Region,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,35611552,13771025,39
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18420032,13800892,75
+WHO_REGIONS,EUR,European Region,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11468782,10528681,92
+WHO_REGIONS,AMR,Region of the Americas,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14435191,11048452,77
+WHO_REGIONS,SEAR,South-East Asia Region,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29600932,24432865,83
+WHO_REGIONS,WPR,Western Pacific Region,2021,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,26257266,22204790,85
+WHO_REGIONS,AFR,African Region,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,35133507,13725183,39
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18534957,13922685,75
+WHO_REGIONS,EUR,European Region,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11534680,10532591,91
+WHO_REGIONS,AMR,Region of the Americas,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14665364,10657007,73
+WHO_REGIONS,SEAR,South-East Asia Region,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29741810,24663739,83
+WHO_REGIONS,WPR,Western Pacific Region,2020,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,28291857,24899793,88
+WHO_REGIONS,AFR,African Region,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,34655165,11178233,32
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18566588,13887968,75
+WHO_REGIONS,EUR,European Region,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11531100,10625856,92
+WHO_REGIONS,AMR,Region of the Americas,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14749928,10687321,72
+WHO_REGIONS,SEAR,South-East Asia Region,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29998884,25513377,85
+WHO_REGIONS,WPR,Western Pacific Region,2019,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29983359,26812285,89
+WHO_REGIONS,AFR,African Region,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,34221192,8546683,25
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18564594,13590770,73
+WHO_REGIONS,EUR,European Region,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11387791,10447065,92
+WHO_REGIONS,AMR,Region of the Americas,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14794056,12454311,84
+WHO_REGIONS,SEAR,South-East Asia Region,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30298109,25304753,84
+WHO_REGIONS,WPR,Western Pacific Region,2018,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29798497,26450988,89
+WHO_REGIONS,AFR,African Region,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,33835698,8257846,24
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18564053,13598865,73
+WHO_REGIONS,EUR,European Region,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11178028,10169555,91
+WHO_REGIONS,AMR,Region of the Americas,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14858640,11082988,75
+WHO_REGIONS,SEAR,South-East Asia Region,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30162575,24647238,82
+WHO_REGIONS,WPR,Western Pacific Region,2017,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30266449,26660347,88
+WHO_REGIONS,AFR,African Region,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,33198946,7311437,22
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18460573,13481623,73
+WHO_REGIONS,EUR,European Region,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11110992,9813342,88
+WHO_REGIONS,AMR,Region of the Americas,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14845558,11861831,80
+WHO_REGIONS,SEAR,South-East Asia Region,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30509926,23764254,78
+WHO_REGIONS,WPR,Western Pacific Region,2016,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30527466,26514752,87
+WHO_REGIONS,AFR,African Region,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,32631275,5492989,17
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18283434,12348730,68
+WHO_REGIONS,EUR,European Region,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11061994,9861596,89
+WHO_REGIONS,AMR,Region of the Americas,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14873194,11541943,78
+WHO_REGIONS,SEAR,South-East Asia Region,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,31143519,22169713,71
+WHO_REGIONS,WPR,Western Pacific Region,2015,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30695155,25356721,83
+WHO_REGIONS,AFR,African Region,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,32105863,3247222,10
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,17988159,11385019,63
+WHO_REGIONS,EUR,European Region,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,10889609,9732752,89
+WHO_REGIONS,AMR,Region of the Americas,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14941621,11720968,78
+WHO_REGIONS,SEAR,South-East Asia Region,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,31426514,20060554,64
+WHO_REGIONS,WPR,Western Pacific Region,2014,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30432004,24918039,82
+WHO_REGIONS,AFR,African Region,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,31531240,2056543,7
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,17587465,10321907,59
+WHO_REGIONS,EUR,European Region,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,10656842,9528931,89
+WHO_REGIONS,AMR,Region of the Americas,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,15152137,10596880,70
+WHO_REGIONS,SEAR,South-East Asia Region,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,31635138,17674795,56
+WHO_REGIONS,WPR,Western Pacific Region,2013,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29709572,26322426,89
+WHO_REGIONS,AFR,African Region,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,30887393,1779618,6
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,17238716,9536204,55
+WHO_REGIONS,EUR,European Region,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,10522379,8740706,83
+WHO_REGIONS,AMR,Region of the Americas,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,15101027,11045909,73
+WHO_REGIONS,SEAR,South-East Asia Region,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,31931539,12639299,40
+WHO_REGIONS,WPR,Western Pacific Region,2012,MCV2,"Measles-containing vaccine, 2nd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,29693876,26038865,88
+Exported: 2026-5-1 14:21 UTC,,,,,,,,,,
